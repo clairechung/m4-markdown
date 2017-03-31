@@ -6,5 +6,5 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important. [link] (https://www.brainyquote.com/quotes/quotes/b/billgates390682.html)
+Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important. [link](https://www.brainyquote.com/quotes/quotes/b/billgates390682.html)
 See the `link`
